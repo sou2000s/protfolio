@@ -1,0 +1,130 @@
+
+body{
+    font-family: 'Arima', cursive;
+font-family: 'Trispace', sans-serif;
+}
+
+/* top section/ start */
+
+.start{
+    display: flex;
+    padding-left: 5%;
+    margin-bottom: -219px;
+}
+.start.text{
+   
+    width: 50%;
+}
+
+.start h1{
+    font-size: 80px;
+}
+
+.brown-{
+    color: brown;
+}
+.orange-{
+    color: orange;
+}
+
+.start.img{
+    width: 30%;
+    
+  
+    
+}
+
+.start a{
+  text-decoration: none;
+  color: bisque;
+  background-color: black;
+  padding: 10px;
+}
+
+
+/* dream big*/
+
+.dream-big{
+    display: flex;
+}
+
+.dream-big img{
+    width: 100%;
+
+
+}
+
+.dream-big h1{
+    color: brown;
+    font-size: 80px;
+}
+
+.dream-big-text{
+    width: 50%;
+}
+
+.dream-big-img{
+    width: 50%;
+}
+
+
+.dream-big ul li a{
+    text-decoration: none;
+    color: brown;
+}
+
+/* peojects */
+
+
+.projects h1{
+    padding-left: 5%;
+
+
+
+}
+.projects .flex-container{
+    display: flex;
+
+    padding-left: 10%;
+
+}
+
+#pro-1{
+   border-left: 5px solid blue;
+   width: 40%;
+   box-shadow:10px 5px 5px black;
+   margin-right:5%;
+   margin-right: 5%;
+}
+#pro-1 h1{
+    font-size: 30px;
+}
+#pro-2 h1{
+    font-size: 30px;
+}
+#pro-1 p{
+  padding: 3%;
+} 
+#pro-2 p{
+    padding-left: 3%;
+}
+
+#pro-2{
+    border-top: 5px solid orange;
+   width: 40%;
+   box-shadow:10px 5px 5px black;
+   margin-right:5%;
+   margin-right: 5%;
+}
+
+.flex-container a{
+    text-decoration: none;
+    color: bisque;
+    background-color: black;
+    padding: 10px;
+}
+
+
+footer{
+    text-align: center;
+}
